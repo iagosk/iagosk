@@ -32,7 +32,7 @@
 
 -   🧩 Arquitetura limpa e design de sistemas
 -   🔐 APIs seguras e autenticação
--   📊 Dashboards
+-   📄 Documentações Organizadas
 
 ---
 
@@ -48,6 +48,7 @@
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 ![BootStrap](https://img.shields.io/badge/BootStrap-6f2df3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-20232A?style=for-the-badge&logo=vite)
 ![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=v)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=fff)
 
