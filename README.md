@@ -69,8 +69,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Github Desktop](https://img.shields.io/badge/Github_Desktop-purple?style=for-the-badge&logo=github&logoColor=fff)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+![Astah UML](https://img.shields.io/badge/Astah-003366?style=for-the-badge&logo=diagramsdotnet&logoColor=fff)
 
 ---
 
