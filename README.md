@@ -12,11 +12,17 @@
   <a href="https://github.com/iagosk">
     <img src="https://img.shields.io/badge/GitHub-Iagosk-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/mathiagosk">
-    <img src="https://img.shields.io/badge/Instagram-@mathiagosk-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/iago_028">
+    <img src="https://img.shields.io/badge/Instagram-@iago__028-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.threads.com/@iago_028">
+    <img src="https://img.shields.io/badge/Threads-@iago__028-E4405F?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/matheus.iago.7739/">
   <img src="https://img.shields.io/badge/Facebook-matheus.iago-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@iago_028">
+  <img src="https://img.shields.io/badge/tiktok-@iago__028-black?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
@@ -53,6 +59,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![PHP](https://img.shields.io/badge/PHP-4169E1?style=for-the-badge&logo=php)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white)
 
 ### DevOps & Tools
 
