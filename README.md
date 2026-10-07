@@ -63,12 +63,13 @@
 ![Express](https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=express&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs)
 
-![Python](https://img.shields.io/badge/Python-ffe364?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ed64?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+![Python](https://img.shields.io/badge/Python-ffe364?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django)
 
 ![PHP](https://img.shields.io/badge/PHP-4169E1?style=for-the-badge&logo=php&logoColor=fff)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white)
